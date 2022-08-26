@@ -4,7 +4,6 @@ import os
 os.system("cls")
 
 
-
 def edita():
     print()
     while True:
